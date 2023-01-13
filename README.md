@@ -2,7 +2,7 @@
 2023 KIAS-APCTP Statistical Physics Winter School group project
 
 ## Usage
-```julia ./lindblad J gamma p tf dt```
+```julia lindblad.jl J gamma p tf dt```
 
 ### parameters
 J: Interaction strength
